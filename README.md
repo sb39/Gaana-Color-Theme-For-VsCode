@@ -1,5 +1,10 @@
 # Gaana Theme for Visual Studio Code
+![Marketplace](https://vsmarketplacebadge.apphb.com/version/SrijeetBiswas.gaana-colour-theme.svg)  ![Installs](https://vsmarketplacebadge.apphb.com/installs/SrijeetBiswas.gaana-colour-theme.svg
+)  ![Rating](https://vsmarketplacebadge.apphb.com/rating-short/SrijeetBiswas.gaana-colour-theme.svg)
+
+
 `Theme based on Gaana.com UI design for VS code`
+
 ![gaana](https://user-images.githubusercontent.com/28492382/54091248-f32c2e80-43a3-11e9-9c76-5e2a1b72e5c2.PNG)
 
 ## Installing

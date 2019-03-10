@@ -3,6 +3,7 @@
     "displayName": "Gaana Colour Theme",
     "description": "Gaana.com colour theme extension",
     "version": "1.0.0",
+    "publisher": "SrijeetBiswas",
     "engines": {
         "vscode": "^1.32.0"
     },

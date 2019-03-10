@@ -1,0 +1,21 @@
+{
+    "name": "gaana-colour-theme",
+    "displayName": "Gaana Colour Theme",
+    "description": "Gaana.com colour theme extension",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gaana Colour Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gaana-Colour-Theme.json"
+            }
+        ]
+    }
+}

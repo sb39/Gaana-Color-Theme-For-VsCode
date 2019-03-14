@@ -12,7 +12,7 @@ This extension is available for free in the [VSCode Marketplace](https://marketp
 
 1. On VS Code go to View -> Command Palette
 2. Then enter Install Extension
-3. Write Spotify Theme
+3. Write SGaana Colour Theme
 4. Select it or press Enter to install
 
 ## Contributing
